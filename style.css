@@ -1,0 +1,35 @@
+h1{
+    color: #001514;
+}
+.lista_Links{
+    line-height: 60px;
+}
+p {
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+} 
+body{
+    background-color: #FFFBDB;
+}
+.pictures{
+    border-radius: 75%;
+}
+span{ 
+    font-family: 'Sawarabi Gothic', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+.titles-sub{
+    color: #C97064;
+    font-family: 'Sawarabi Gothic', sans-serif;  
+}
+.links_portifolio{
+    text-align: center;
+    border-radius: 30%;
+    font-family: 'Sawarabi Gothic', sans-serif;
+    background-color: #6B4E71;
+    color: #FFF;
+    text-decoration: none;
+    padding: 15px 15px;
+}
