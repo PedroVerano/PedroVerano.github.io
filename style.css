@@ -1,3 +1,7 @@
+body{
+    padding: 2% 3%;
+    margin: 0;
+}
 h1{
     color: #001514;
 }
@@ -32,4 +36,8 @@ span{
     color: #FFF;
     text-decoration: none;
     padding: 15px 15px;
+}
+div {
+    padding: 10px 20px;
+    border: 2px solid chocolate;
 }
